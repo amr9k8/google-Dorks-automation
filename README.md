@@ -2,7 +2,7 @@
 
 ### How it Works  :
 
-#### <br>- very easy to use just add your dorklist in the dork text file , all results will be saved in a text file <br>
+#### <br>- very easy to use just add your dorklist in the dork text file ,Run the Script ,then  results will be saved in a text file <br>
 
 ### Note :
 #### in this script i used google JSON API which have limited quota for each key  it  preform 100 search queries  daily And each query  fetch  100 result <br>
